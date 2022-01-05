@@ -1,4 +1,10 @@
-### Hi there This is Yoonjeong👋
+### 안녕하세요 김윤정의 깃헙페이지입니다👋
+
+🍉 Java, Spring 개발을 중점으로 했습니다
+
+🍉 Spring Boot, React를 공부하고 있습니다
+
+🍉 백에서 프론트까지 다양하게 접해보고 공부하려고 노력중입니다
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subakibaksu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
