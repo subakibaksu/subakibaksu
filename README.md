@@ -1,6 +1,6 @@
 ### Hi there This is Yoonjeong👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subakibaksu&show_icons=true&theme=panda)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subakibaksu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
